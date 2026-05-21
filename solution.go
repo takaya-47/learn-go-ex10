@@ -1,8 +1,8 @@
-// Package ch10_solution contains the solution to the exercises in chapter 10 of Learning Go, 2nd edition.
+// Package solution は「初めてのGo 第2版」の10章に関するパッケージです。
 package solution
 
-// Add is a function that takes two integers and returns their sum.
-// It follows the rules specified by [mathsisfun]
+// Add は2つの整数を足し算して、その結果を返します。
+// 足し算については[mathsisfun]のサイトを参考にしてください。
 //
 // [mathsisfun]: https://www.mathsisfun.com/numbers/addition.html
 func Add(a, b int) int {
